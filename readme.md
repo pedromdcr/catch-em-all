@@ -1,5 +1,5 @@
 # Catch 'Em All!
 
-Para correr o código da solução basta abrir um command prompt do Windows nesta pasta e usar o comando:
+To run this code just open a command prompt on Windows in this project folder and type in:
 
 java -jar CatchEmAll.jar
